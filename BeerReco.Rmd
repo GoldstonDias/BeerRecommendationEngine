@@ -2,7 +2,7 @@
 title: "Reccomendation Engine"
 author: "Goldston Dias"
 date: "March 4, 2019"
-output: html_document
+output: rmarkdown::github_document
 ---
 ```{r}
 #Installing Packages
